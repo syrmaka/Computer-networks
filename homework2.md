@@ -6,7 +6,7 @@
 
 ## Схема нерабочей сети
 
-![Некорректная диаграмма](screenshots/incorrect diagram.png)
+![Некорректная диаграмма](screenshots/incorrect_diagram.png)
 
 ### Ошибка сети
 
@@ -20,4 +20,4 @@
 1. В настройках host_4 изменить IP‑адрес на `192.168.1.40`.
 2. В настройках host_1 обновить команду на `ping 192.168.1.40`.
 
-![Корректная диаграмма](screenshots/correct diagram.png)
+![Корректная диаграмма](screenshots/correct_diagram.png)
