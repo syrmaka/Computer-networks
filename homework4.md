@@ -13,10 +13,10 @@
 ## Скриншоты
 
 ### 1. Схема сети
-![Схема](01_topology.png)
+![Схема](01Topology.png)
 
 ### 2. Проверка ping через консоль
-![Консольный ping](02_console_ping.png)
+![Консольный ping](02Console_ping.png)
 
 ### 3. Ping в режиме Simulation
-![Simulation](03_simulation_ping.png)
+![Simulation](03Simulation_ping.png)
